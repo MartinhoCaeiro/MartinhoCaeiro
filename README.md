@@ -51,4 +51,3 @@
   </picture>
 </div>
 
-<hr>
