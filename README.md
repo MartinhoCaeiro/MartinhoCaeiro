@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Martinho+Caeiro!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FFFFFF&duration=4000&lines=Hi+There!+👋;+I'm+Martinho+Caeiro!;" />
 </h1>
 
 <img src="https://github.com/MartinhoCaeiro/MartinhoCaeiro/blob/main/Via de cintura externa de Tóquio (Ichikawa)_.jpeg" alt="MartinhoCaeiro`s Banner">
@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 - 💬 Ask me anything **[here](https://github.com/MartinhoCaeiro/MartinhoCaeiro/issues)**
-- 📫 Reach me via **MartinhoC04@hotmail.com**
-  
+- 📫 Reach me at **MartinhoC04@hotmail.com**
 <hr>
 
 
@@ -30,7 +29,7 @@
 <br>
 
   ![](https://github-readme-stats.vercel.app/api?username=MartinhoCaeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinhoCaeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinhoCaeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 <hr>
 
