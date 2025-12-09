@@ -28,8 +28,7 @@
 
 <br>
 
-  ![](https://github-readme-stats.vercel.app/api?username=MartinhoCaeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinhoCaeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![GitHub Card](https://githubcard.com/MartinhoCaeiro.svg?d=Ku_Zw9n5)
   
 <hr>
 
